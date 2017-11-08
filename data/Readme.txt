@@ -1,5 +1,7 @@
 Dataset
 -------
+The data capture was done inside the premises of Jadavpur University, Kolkata, India.
+The data was used as data source for our entry at the IEEE Brain Data Bank Challenge(https://brain.ieee.org/news/call-participation-ieee-brain-data-bank-challenges-2017/), held on 31st October in Glasgow, UK. 
 The data is captured from 9 subjects named as s1 to s9. The data is present in 9 directories, one for each subject. Each directory contains 8 files, which are explained below.
 
 Experiment
